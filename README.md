@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠️ Tecnologias em aprendizado
-- Lógica de Programação  
-- Java  
-- Python  
-- Git & GitHub  
-
----
 
 ### 📌 Objetivo
 Construir uma base sólida em programação e desenvolvimento de software, evoluindo por meio de projetos práticos e estudos constantes.
