@@ -33,38 +33,12 @@ Construir uma base sólida em programação e desenvolvimento de software, aplic
 
 ## 🛠️ Tecnologias em Aprendizado
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
-
-| Tecnologia | Nível |
-|:----------:|:-----:|
-| Python | 🟢 Aprendendo |
-| Lógica de Programação | 🟢 Aprendendo |
-| Git & GitHub | 🟢 Aprendendo |
-| HTML e CSS | 🟡 Básico |
-| n8n (automação) | 🟡 Básico |
-| Java (POO) | 🟡 Básico |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
+- Python  
+- Lógica de Programação  
+- Git & GitHub  
+- HTML e CSS (básico)
+- n8n (automação de fluxos – básico)
+- Java (lógica, classes e orientação a objetos – básico)
 
 ---
 
