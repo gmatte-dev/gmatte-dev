@@ -4,7 +4,7 @@
 
 [![Localização](https://img.shields.io/badge/📍_Caxias_do_Sul-RS,_Brasil-blue?style=for-the-badge)](https://github.com/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-guilhermematte2009%40icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:guilhermematte2009@icloud.com)
-[![Instagram](https://img.shields.io/badge/@matte.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matte.x)
+[![Instagram](https://img.shields.io/badge/@mattee.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mattee.x)
 
 <br>
 
