@@ -60,7 +60,7 @@ Construir uma base sólida em programação e desenvolvimento de software, aplic
 Estou aberto a oportunidades de **estágio** e novos aprendizados!
 
 [![Email](https://img.shields.io/badge/📧_Email-guilhermematte2009%40icloud.com-blue?style=flat-square)](mailto:guilhermematte2009@icloud.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@matte.x-E4405F?style=flat-square)](https://instagram.com/matte.x)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@mattee.x-E4405F?style=flat-square)](https://instagram.com/mattee.x)
 
 ---
 
