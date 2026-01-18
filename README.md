@@ -9,6 +9,7 @@
 ### 🚀 Sobre mim
 Sou estudante de tecnologia em constante aprendizado, com interesse em **programação**, **lógica computacional** e **desenvolvimento de software**.  
 Gosto de aprender na prática, aplicando o que estudo em **projetos simples e funcionais**, sempre buscando evoluir um passo de cada vez.
+Sou versátil, proativo e aberto a aprender novas tecnologias, sempre disposto a estudar o que for necessário para contribuir com a equipe.
 
 ---
 
