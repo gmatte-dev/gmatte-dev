@@ -5,6 +5,7 @@
 [![Localização](https://img.shields.io/badge/📍_Caxias_do_Sul-RS,_Brasil-blue?style=for-the-badge)](https://github.com/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-guilhermematte2009%40icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:guilhermematte2009@icloud.com)
 [![Instagram](https://img.shields.io/badge/@mattee.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mattee.x)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
 
 <br>
 
@@ -61,6 +62,7 @@ Estou aberto a oportunidades de **estágio** e novos aprendizados!
 
 [![Email](https://img.shields.io/badge/📧_Email-guilhermematte2009%40icloud.com-blue?style=flat-square)](mailto:guilhermematte2009@icloud.com)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@mattee.x-E4405F?style=flat-square)](https://instagram.com/mattee.x)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
 
 ---
 
