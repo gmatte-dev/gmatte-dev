@@ -10,7 +10,7 @@
 <br>
 
 🎓 **Estudante de Técnico em Informática** — CETEC UCS  
-💻 Explorando back-end, automação e ciência de dados com Python
+☕ Focando em Java | 🐍 Base sólida em Python
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de tecnologia em constante aprendizado, com foco em **Python** aplicado a diferentes áreas — desde lógica de programação e back-end até automação e análise de dados.
+Sou estudante de tecnologia com boa base prática em **Python**, onde desenvolvi projetos nas áreas de automação, análise de dados e machine learning.
 
-Aprendo construindo: cada projeto aqui representa algo que estudei e coloquei em prática. Estou em busca da minha primeira oportunidade profissional na área de tecnologia.
+Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos em orientação a objetos e desenvolvimento back-end. Busco minha primeira oportunidade profissional onde possa evoluir e contribuir de verdade.
 
 ---
 
@@ -28,8 +28,8 @@ Aprendo construindo: cada projeto aqui representa algo que estudei e coloquei em
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -38,10 +38,9 @@ Aprendo construindo: cada projeto aqui representa algo que estudei e coloquei em
 
 </div>
 
-- **Python** — principal linguagem, com projetos em diversas áreas
-- **Streamlit** — criação de aplicações web interativas
-- **Pandas & Scikit-learn** — análise de dados e machine learning (em aprendizado)
-- **Java** — lógica, classes e orientação a objetos
+- **Java** — foco atual, aprofundando OOP e desenvolvimento back-end
+- **Python** — base sólida com projetos práticos em automação e dados
+- **Streamlit / Pandas / Scikit-learn** — experiência em projetos de dados e ML
 - **Git & GitHub** — versionamento e controle de código
 
 ---
@@ -76,7 +75,7 @@ Sistema em Python que simula a reserva de assentos em um teatro utilizando uma m
 
 ## 🎯 Objetivo
 
-Construir uma base sólida em programação e me preparar para **oportunidades de estágio** na área de tecnologia, aplicando o que aprendo em projetos práticos e evoluindo continuamente.
+Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando minha primeira oportunidade de estágio onde possa crescer profissionalmente e contribuir com dedicação.
 
 ---
 
