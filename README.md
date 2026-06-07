@@ -87,6 +87,4 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
 [![Instagram](https://img.shields.io/badge/@mattee.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mattee.x)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gmatte-dev&color=blue&style=flat-square&label=Visitantes)
-
 </div>
