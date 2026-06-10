@@ -57,6 +57,7 @@ Chat de inteligência artificial desenvolvido em Python, utilizando a API da Ope
 
 ### 📅 [Sistema de Agendamentos](https://github.com/gmatte-dev/Sistema-de-Agendamentos-Flask-JSON)
 Este sistema permite cadastrar, editar, remover e listar tarefas. O front-end consome uma API REST do Flask e também exibe um painel com resumo da agenda (atrasadas, hoje, futuras, urgentes e distribuição por categoria).
+
 `Flask` `Python` `HTML/CSS` `JavaScript` `JSON`
 
 ### 💳 [Previsão de Score de Crédito](https://github.com/gmatte-dev/previsao-score-credito)
