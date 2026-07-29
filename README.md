@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Guilherme Matté
+# Guilherme Matté
 
 [![Email](https://img.shields.io/badge/Email-guilhermematte2009%40icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:guilhermematte2009@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
@@ -23,7 +23,7 @@ Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos
 
 ---
 
-## 🛠️ Principais Tecnologias
+## Principais Tecnologias
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos
 - **Python** — base sólida com projetos práticos em automação e dados
 ---
 
-## 📁 Projetos
+## Projetos
 
 ### 📊 [Dashboard de Salários na Área de Dados](https://github.com/gmatte-dev/data-salary-dashboard)
 Dashboard interativo desenvolvido com Streamlit para análise de salários na área de dados, com filtros por ano, senioridade, tipo de contrato e tamanho da empresa.  
@@ -69,7 +69,7 @@ Sistema em Python que simula a reserva de assentos em um teatro utilizando uma m
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando minha primeira oportunidade de estágio onde possa crescer profissionalmente e contribuir com dedicação.
 
@@ -77,7 +77,7 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 <div align="center">
 
-## 📫 Vamos Conectar?
+## Contato
 
 [![Email](https://img.shields.io/badge/Email-guilhermematte2009%40icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:guilhermematte2009@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
