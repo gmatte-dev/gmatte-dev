@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou estudante de tecnologia com boa base prática em **Python**, onde desenvolvi projetos nas áreas de automação, análise de dados e machine learning.
 
