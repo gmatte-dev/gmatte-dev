@@ -24,25 +24,17 @@ Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Principais Tecnologias
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 - **Java** — foco atual, aprofundando OOP e desenvolvimento back-end
 - **Python** — base sólida com projetos práticos em automação e dados
-- **Streamlit / Pandas / Scikit-learn** — experiência em projetos de dados e ML
-- **Git & GitHub** — versionamento e controle de código
-
 ---
 
 ## 📁 Projetos
