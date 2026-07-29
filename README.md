@@ -9,7 +9,7 @@
 
 <br>
 
-🎓 **Estudante de Técnico em Informática** — CETEC UCS  
+🎓 **Técnico em Informática** — CETEC UCS  
 ☕ Focando em Java | 🐍 Base sólida em Python
 
 </div>
