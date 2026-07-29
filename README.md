@@ -2,7 +2,6 @@
 
 # 👋 Olá, eu sou o Guilherme Matté
 
-[![Localização](https://img.shields.io/badge/📍_Caxias_do_Sul-RS,_Brasil-blue?style=for-the-badge)](https://github.com/gmatte-dev)
 [![Email](https://img.shields.io/badge/Email-guilhermematte2009%40icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:guilhermematte2009@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmattee)
 [![Instagram](https://img.shields.io/badge/@mattee.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mattee.x)
