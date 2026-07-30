@@ -20,6 +20,13 @@ Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos
 
 ---
 
+## Objetivo
+
+Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando minha primeira oportunidade de estágio onde possa crescer profissionalmente e contribuir com dedicação.
+
+---
+
+
 ## Principais Tecnologias
 
 <div align="center">
@@ -63,12 +70,6 @@ Automação do cadastro de produtos em um sistema web utilizando Python, PyAutoG
 ### [Sistema de Reservas de Teatro](https://github.com/gmatte-dev/gerenciador-teatro-matrizes)
 Sistema em Python que simula a reserva de assentos em um teatro utilizando uma matriz 10x12.  
 `Python` `Matrizes` `Lógica de Programação`
-
----
-
-## Objetivo
-
-Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando minha primeira oportunidade de estágio onde possa crescer profissionalmente e contribuir com dedicação.
 
 ---
 
