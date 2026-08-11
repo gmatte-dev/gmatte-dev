@@ -42,8 +42,7 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 ## Projetos
 
-## 🍽️ Bistro 2026 — Projeto em Destaque
-[Ver repositório](https://github.com/arthurjww/Bistro-2026)
+## [🍽️ Bistro 2026 — Projeto em Destaque](https://github.com/arthurjww/Bistro-2026)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
