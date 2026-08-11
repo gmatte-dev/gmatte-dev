@@ -42,6 +42,13 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 ## Projetos
 
+### [Bistro 2026](https://github.com/arthurjww/Bistro-2026)
+Projeto de fechamento de curso técnico (CETEC UCS), integrando os cursos de Administração, Gastronomia e Informática — um evento gastronômico completo, planejado e operado pelos próprios alunos. A plataforma digital contempla venda de ingressos, mapa interativo de mesas, sistema de votação e identidade visual.
+
+> **Gestor da frente de compra e venda de ingressos** — planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência e integração com o mapa de mesas.
+
+`Git` `GitHub` `Gestão de Projetos` `Trabalho em Equipe`
+
 ### [Dashboard de Salários na Área de Dados](https://github.com/gmatte-dev/data-salary-dashboard)
 Dashboard interativo desenvolvido com Streamlit para análise de salários na área de dados, com filtros por ano, senioridade, tipo de contrato e tamanho da empresa.  
 `Python` `Streamlit` `Pandas` `Análise de Dados`
@@ -52,7 +59,6 @@ Chat de inteligência artificial desenvolvido em Python, utilizando a API da Ope
 
 ### [Sistema de Agendamentos](https://github.com/gmatte-dev/Sistema-de-Agendamentos-Flask-JSON)
 Este sistema permite cadastrar, editar, remover e listar tarefas. O front-end consome uma API REST do Flask e também exibe um painel com resumo da agenda (atrasadas, hoje, futuras, urgentes e distribuição por categoria).
-
 `Flask` `Python` `HTML/CSS` `JavaScript` `JSON`
 
 ### [Previsão de Score de Crédito](https://github.com/gmatte-dev/previsao-score-credito)
@@ -66,10 +72,6 @@ Aplicação web interativa que utiliza Machine Learning para prever o preço de 
 ### [Automação de Cadastro de Produtos](https://github.com/gmatte-dev/automacao-de-tarefas-com-python)
 Automação do cadastro de produtos em um sistema web utilizando Python, PyAutoGUI e Pandas.  
 `Python` `PyAutoGUI` `Pandas` `Automação`
-
-### [Sistema de Reservas de Teatro](https://github.com/gmatte-dev/gerenciador-teatro-matrizes)
-Sistema em Python que simula a reserva de assentos em um teatro utilizando uma matriz 10x12.  
-`Python` `Matrizes` `Lógica de Programação`
 
 ---
 
