@@ -42,12 +42,27 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 ## Projetos
 
-### [Bistro 2026](https://github.com/arthurjww/Bistro-2026)
+## 🍽️ Bistro 2026 — Projeto em Destaque
+[Ver repositório](https://github.com/arthurjww/Bistro-2026)
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-black)
+![SQLite](https://img.shields.io/badge/SQLite3-lightgrey)
+![Git](https://img.shields.io/badge/Git-orange)
+
 Projeto de fechamento de curso técnico (CETEC UCS), integrando os cursos de Administração, Gastronomia e Informática — um evento gastronômico completo, planejado e operado pelos próprios alunos. A plataforma digital contempla venda de ingressos, mapa interativo de mesas, sistema de votação e identidade visual.
 
-> **Gestor da frente de compra e venda de ingressos** — planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência e integração com o mapa de mesas.
+**🎯 Meu papel:** Gestor da frente de **compra e venda de ingressos**, responsável pelo planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência e integração com o mapa de mesas.
 
-`Python` `Flask` `JavaScript` `SQLite3` `HTML/CSS` `Git` `GitHub`
+**Destaques:**
+- 👥 Projeto colaborativo multidisciplinar, integrando 3 cursos técnicos
+- 🎯 Gestão de equipe de 5 pessoas na frente de ingressos
+- 🔒 Implementação de controle de concorrência em sistema de vendas real (evitar duplo pagamento no mesmo lugar)
+- 💳 Fluxo de pagamento via Pix com verificação de disponibilidade em tempo real
+- 📅 Metodologia ágil com Trello para gestão de tarefas
+
+`Python` `Flask`  `JavaScript` `SQLite3` `HTML/CSS` `Git` `GitHub`
 
 ### [Dashboard de Salários na Área de Dados](https://github.com/gmatte-dev/data-salary-dashboard)
 Dashboard interativo desenvolvido com Streamlit para análise de salários na área de dados, com filtros por ano, senioridade, tipo de contrato e tamanho da empresa.  
