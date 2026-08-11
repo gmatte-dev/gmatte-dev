@@ -47,7 +47,7 @@ Projeto de fechamento de curso técnico (CETEC UCS), integrando os cursos de Adm
 
 > **Gestor da frente de compra e venda de ingressos** — planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência e integração com o mapa de mesas.
 
-`Git` `GitHub` `Gestão de Projetos` `Trabalho em Equipe`
+`Python` `Flask` `JavaScript` `SQLite3` `HTML/CSS` `Git` `GitHub`
 
 ### [Dashboard de Salários na Área de Dados](https://github.com/gmatte-dev/data-salary-dashboard)
 Dashboard interativo desenvolvido com Streamlit para análise de salários na área de dados, com filtros por ano, senioridade, tipo de contrato e tamanho da empresa.  
