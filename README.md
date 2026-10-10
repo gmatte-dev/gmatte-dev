@@ -24,8 +24,9 @@ Atualmente estou direcionando meu foco para **Java**, aprofundando conhecimentos
 
 Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando minha primeira oportunidade de estágio onde possa crescer profissionalmente e contribuir com dedicação.
 
----
+**Disponível para iniciar estágio a partir de janeiro de 2027.**
 
+---
 
 ## Principais Tecnologias
 
@@ -33,11 +34,28 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-em%20estudo-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-em%20estudo-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 </div>
 
 - **Java** — foco atual, aprofundando OOP e desenvolvimento back-end
 - **Python** — base sólida com projetos práticos em automação e dados
+- **Spring Boot e Hibernate** — em estudo, como continuação dos meus cursos de Java
+
+---
+
+## Estudando Java
+
+Java é meu foco atual. Cursos e formações que fiz ou estou fazendo:
+
+- ✅ **Java e Programação Orientada a Objetos** — Curso em Vídeo (Gustavo Guanabara) · concluído
+- 📘 **Java Básico** — Loiane Training · cursado parcialmente
+- 🔄 **Java Completo: Programação Orientada a Objetos + Projetos** — Nelio Alves · em andamento
+- 🔄 **Java com Inteligência Artificial** — Bootcamp Itaú · em andamento
+
+**Próximos passos:** estudar Spring Boot e Hibernate e construir uma API REST em Java para publicar aqui.
+
 ---
 
 ## Projetos
@@ -52,16 +70,16 @@ Aprofundar meus conhecimentos em **Java** e desenvolvimento back-end, buscando m
 
 Projeto de fechamento de curso técnico (CETEC UCS), integrando os cursos de Administração, Gastronomia e Informática — um evento gastronômico completo, planejado e operado pelos próprios alunos. A plataforma digital contempla venda de ingressos, mapa interativo de mesas, sistema de votação e identidade visual.
 
-**🎯 Meu papel:** Gestor da frente de **compra e venda de ingressos**, responsável pelo planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência e integração com o mapa de mesas.
+**🎯 Meu papel:** Gestor da frente de **compra e venda de ingressos**, responsável pelo planejamento e desenvolvimento do módulo de vendas, autenticação, controle de concorrência, **integração com a API do Mercado Pago** e integração com o mapa de mesas.
 
 **Destaques:**
 - 👥 Projeto colaborativo multidisciplinar, integrando 3 cursos técnicos
 - 🎯 Gestão de equipe de 5 pessoas na frente de ingressos
 - 🔒 Implementação de controle de concorrência em sistema de vendas real (evitar duplo pagamento no mesmo lugar)
-- 💳 Fluxo de pagamento via Pix com verificação de disponibilidade em tempo real
+- 💳 Fluxo de pagamento via Pix com **integração à API do Mercado Pago**: geração de QR code, confirmação por webhook com validação de assinatura e verificação de disponibilidade em tempo real
 - 📅 Metodologia ágil com Trello para gestão de tarefas
 
-`Python` `Flask`  `JavaScript` `SQLite3` `HTML/CSS` `Git` `GitHub`
+`Python` `Flask`  `JavaScript` `SQLite3` `HTML/CSS` `API Mercado Pago` `Git` `GitHub`
 
 ### [Dashboard de Salários na Área de Dados](https://github.com/gmatte-dev/data-salary-dashboard)
 Dashboard interativo desenvolvido com Streamlit para análise de salários na área de dados, com filtros por ano, senioridade, tipo de contrato e tamanho da empresa.  
@@ -72,7 +90,7 @@ Chat de inteligência artificial desenvolvido em Python, utilizando a API da Ope
 `Python` `OpenAI API` `Streamlit`
 
 ### [Sistema de Agendamentos](https://github.com/gmatte-dev/Sistema-de-Agendamentos-Flask-JSON)
-Este sistema permite cadastrar, editar, remover e listar tarefas. O front-end consome uma API REST do Flask e também exibe um painel com resumo da agenda (atrasadas, hoje, futuras, urgentes e distribuição por categoria).
+Este sistema permite cadastrar, editar, remover e listar tarefas. O front-end consome uma API REST do Flask e também exibe um painel com resumo da agenda (atrasadas, hoje, futuras, urgentes e distribuição por categoria).  
 `Flask` `Python` `HTML/CSS` `JavaScript` `JSON`
 
 ### [Previsão de Score de Crédito](https://github.com/gmatte-dev/previsao-score-credito)
