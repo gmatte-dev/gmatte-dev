@@ -62,7 +62,7 @@ Java é meu foco atual. Cursos e formações que fiz ou estou fazendo:
 
 ## [🍽️ Bistro 2026 — Projeto em Destaque](https://github.com/gmatte-dev/Bistro-Sinestesia)
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Flask](https://img.shields.io/badge/Flask-black)
 ![SQLite](https://img.shields.io/badge/SQLite3-lightgrey)
